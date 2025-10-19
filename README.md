@@ -1,4 +1,4 @@
 # New Project
 
 This project was created from local system.
-Created by Gurmukh Singh.
+It is created by Gurmukh Singh.
